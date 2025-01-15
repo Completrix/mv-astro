@@ -1065,7 +1065,7 @@ a:visited {
     transform: translateX(-50%);
     width:207px;
     height: 651px;
-    background-image: url('https://i.postimg.cc/523Ynh32/serv-person.png');
+    background-image: url('../images/serv\ person.png');
     bottom: -53px;
 
 
@@ -4113,3 +4113,4 @@ form.d_block {
   justify-content: flex-end;  /* Right-align buttons on larger screens */
   align-items: center;  /* Align vertically */
 }
+
